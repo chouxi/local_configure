@@ -4,5 +4,5 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/nerdtree'
-Plugin 'Valloric/YouCompleteMe'
+Plugin 'ervandew/supertab'
 call vundle#end()
