@@ -94,3 +94,4 @@ alias -s h=vim
 alias -s pdf=evince
 alias -s txt=vim
 alias dnfins="sudo dnf install"
+alias sshvps="ssh root@45.32.95.51"
