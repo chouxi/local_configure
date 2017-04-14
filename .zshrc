@@ -93,5 +93,7 @@ alias -s cpp=vim
 alias -s h=vim
 alias -s pdf=evince
 alias -s txt=vim
+alias -s tar.gz=tar -xvf
 alias dnfins="sudo dnf install"
 alias sshvps="ssh zane@45.32.95.51"
+alias matlab="matlab -nosplash -nodesktop"
