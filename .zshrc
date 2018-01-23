@@ -62,7 +62,8 @@ PATH=$PATH:$HOME/.local/bin:$HOME/bin
 
 export PATH
 export PATH=~/program/anaconda2/bin:$PATH
-export PATH=~/ispc-v1.9.1-linux:$PATH
+export ISPC_PATH=~/ispc-v1.9.1-linux
+export PATH=$ISPC_PATH:$PATH
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
